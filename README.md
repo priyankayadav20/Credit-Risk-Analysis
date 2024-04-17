@@ -1,5 +1,5 @@
 # Credit-Risk-Analysis
-This project delves into Credit Risk Analysis employing Python. Leveraging libraries such as Pandas, Matplotlib, and Seaborn, it conducts Exploratory Data Analysis (EDA) to scrutinize the dataset. Through statistical analysis, it uncovers insights into credit risk factors. 
+This project delves into Credit Risk Analysis employing Python. Leveraging libraries such as Pandas, Matplotlib, and Seaborn, it conducts Exploratory Data Analysis (EDA) to scrutinize the dataset. Through statistical analysis, it uncovers insights into credit risk factors.             
 **Problem Statement:** To find the patterns, variables or driving factors in the data that will help avoid denying the loan to the applicants capable of repaying it.
 
 **A little about Data:**
